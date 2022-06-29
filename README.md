@@ -1,5 +1,5 @@
 ###  Olá, eu sou o Felipe
--  💻 Atualmente trabalho com fron end
+-  💻 Atualmente trabalho com front end
 -  🧑‍🎓 Estou aprendendo HTML, CSS e JavaScript
 
 <div style="display: inline_block"><br>
